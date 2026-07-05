@@ -62,7 +62,7 @@ Cybersecurity Professional | Penetration Tester | Web & API Security | VAPT | Se
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/karun-kumar-13132a32a/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
