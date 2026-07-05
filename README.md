@@ -1,27 +1,206 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>- Web & API Penetration Testing Projects<br>- Security Automation using Python<br>- Building Cybersecurity Portfolio Projects<br><br>👯 I’m looking to collaborate on<br>- Open Source Security Tools<br>- Vulnerability Research<br>- CTF Teams<br>- SOC Detection Projects<br><br>🤝 I’m looking for help with<br>- Advanced Exploit Development<br>- Cloud Penetration Testing<br>- Red Team Operations<br><br>🌱 I’m currently learning<br>- Active Directory Security<br>- API Pentesting<br>- Malware Analysis<br>- Detection Engineering<br>- DevSecOps<br><br>💬 Ask me about<br>- Burp Suite<br>- OWASP Top 10<br>- API Testing<br>- Nmap<br>- Kali Linux<br>- Linux<br>- Python for Security<br>- Splunk SIEM<br><br>⚡ Fun fact<br>Breaking things ethically to make them more secure is my favorite hobby.
+<h1 align="center">
+Hi 👋, I'm Karun Kumar
+</h1>
 
+<h3 align="center">
+Cybersecurity Professional | Penetration Tester | Web & API Security | VAPT | Security Researcher
+</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Karundotin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Karun Kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karunkumar2223@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=karunkumar2223-prog&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=karunkumar2223-prog&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=karunkumar2223-prog&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=karunkumar2223-prog&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=karunkumar2223-prog&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=700&lines=Cybersecurity+Professional;Penetration+Tester;Web+Application+Security;API+Security+Testing;OWASP+Top+10;Security+Researcher;Python+Automation;Threat+Hunter" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=karunkumar2223-prog&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+🛡️ Cybersecurity Professional specializing in **Web Application Security**, **API Security**, and **Vulnerability Assessment & Penetration Testing (VAPT)**.
+
+💼 Currently working on
+
+- Web Application Penetration Testing
+- API Security Testing
+- Security Automation using Python
+- Cybersecurity Portfolio Projects
+
+🌱 Currently Learning
+
+- Active Directory Security
+- Red Team Operations
+- Cloud Security
+- Malware Analysis
+- Detection Engineering
+- DevSecOps
+
+🎯 Career Interests
+
+- Penetration Testing
+- Security Research
+- Bug Bounty
+- Threat Hunting
+- Purple Teaming
+
+💬 Ask Me About
+
+- Burp Suite
+- OWASP Top 10
+- API Security
+- Kali Linux
+- Linux
+- Nmap
+- Splunk
+- Python
+- Security Automation
+
+⚡ Fun Fact
+
+> I enjoy breaking applications ethically so developers never have to worry about attackers doing it first.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:karunkumar2223@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/Karundotin">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Security Arsenal
+
+### Offensive Security
+
+<p>
+
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+
+</p>
+
+### Programming
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
+
+</p>
+
+### DevOps & Cloud
+
+<p>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</p>
+
+### SIEM
+
+<p>
+
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+
+</p>
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=karunkumar2223-prog&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=karunkumar2223-prog&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karunkumar2223-prog&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karunkumar2223-prog&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=karunkumar2223-prog&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📂 Featured Projects
+
+⭐ Web Application Penetration Testing
+
+⭐ API Security Testing Framework
+
+⭐ Security Automation using Python
+
+⭐ SOC Detection Engineering
+
+⭐ Threat Hunting Labs
+
+⭐ Active Directory Security Lab
+
+---
+
+# 📜 Certifications
+
+- Google Cybersecurity Professional Certificate
+- TCS Internal Security Training
+- (Add future certifications here: eJPT, PNPT, Security+, CEH, OSCP)
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=karunkumar2223-prog&style=for-the-badge&color=blue"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ If you like Cybersecurity and Open Source, consider following my work!
+
+</h3>
